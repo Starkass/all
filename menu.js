@@ -1,10 +1,10 @@
 const help = (p, date, user, wame) => {
-return `Olá @${user} bem vindo ao ✟🔥⃢⃟APOLLL 𝘽𝙊⃟𝙏🔥✟, 
+return `Olá @${user} bem vindo ao ✟🔥⃢⃟STARK 𝘽𝙊⃟𝙏🔥✟, 
 vejo aqui que você assinou meu contrato então tem acesso ao menu,
 se quiser ver minhas redes sociais escreva o comandos ${p}sociais.
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
-┋✟🔥⃢⃟APOLLO 𝘽𝙊⃟𝙏🔥✟
+┋✟🔥⃢⃟ STARK B𝙊⃟𝙏🔥✟
 ┋  
 ┋ 🕐 𝐃𝐚𝐭𝐚: ${date}
 ┋ 🌎 𝐖𝐚𝐦𝐞: 
