@@ -4,7 +4,7 @@ const ownerNumber = ["557187645787@s.whatsapp.net"]
 const OriginalOwner = '557187645787' 
 // mude para seu numero
 
-const menuimg = 'https://i.imgur.com/2KJfprY.jpg'
+const menuimg = 'https://i.imgur.com/h1j3RTj.jpg'
 // Link da foto do menu
 
 const registeruser = false
@@ -49,7 +49,7 @@ const byemsgimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname) => {
-    return `MENU DO ALASTOR-BOT`
+    return `MENU DO STARK-BOT`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
